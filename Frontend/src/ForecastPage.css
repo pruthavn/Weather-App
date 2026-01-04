@@ -1,0 +1,100 @@
+.five-day-page {
+  padding: 20px;
+  min-height: 100vh;
+  font-family: 'Poppins', sans-serif;
+  background-attachment: fixed;
+}
+
+
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.day-block {
+  margin-bottom: 30px;
+}
+
+.day-heading {
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 12px;
+  text-align: center;
+}
+
+.day-cards-horizontal {
+  display: grid;
+  grid-auto-flow: column;
+  gap: 16px;
+  overflow-x: auto;
+  padding-bottom: 10px;
+  scroll-behavior: smooth;
+  justify-content: space-evenly;
+  align-items: center;
+  
+}
+
+.forecast-card {
+  width: 140px;
+  background: rgb(211, 208, 208);
+  padding: 12px;
+  border-radius: 14px;
+  text-align: center;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+  transition: transform 0.2s ease;
+  align-items: center;
+}
+
+.forecast-card:hover {
+  transform: scale(1.05);
+}
+
+.forecast-card .icon {
+  width: 60px;
+  height: 60px;
+  margin-bottom: 6px;
+}
+
+.time {
+  font-size: 14px;
+  font-weight: 500;
+  margin-bottom: 4px;
+}
+
+.temp {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+.desc {
+  font-size: 14px;
+  text-transform: capitalize;
+}
+
+.bottom-btn {
+  display: flex;
+  justify-content: center; 
+  align-items: center;  
+  height: 10vh;  
+}
+
+.go-back {
+  padding: 10px 20px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+  background: rgba(255, 255, 255, 0.7);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.18);
+  color: #111;
+  transition: all 0.3s ease;
+}
+
+.go-back:hover {
+  background: rgb(196, 192, 192);     
+  box-shadow: 0 8px 25px rgba(0,0,0,0.25);  
+}
