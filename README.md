@@ -67,3 +67,18 @@ After fetching weather data, the application generates agricultural advisories u
 - REST API
 - External API
 - OpenWeatherMap API
+
+<img width="1917" height="992" alt="first_interface" src="https://github.com/user-attachments/assets/48608c2a-2de3-4eaf-93e8-a04d3b3f93b5" />
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+<img width="1918" height="991" alt="weather location" src="https://github.com/user-attachments/assets/17c9b7c2-cbe0-4767-b300-ef865ad6573c" />
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+<img width="1920" height="2051" alt="5 day forecast" src="https://github.com/user-attachments/assets/6bc3d3c4-912d-421b-a810-34b19b083aa4" />
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+<img width="1916" height="992" alt="weather dashboard" src="https://github.com/user-attachments/assets/7e47811f-d5d6-4ce4-a71f-f5a68e8700a0" />
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+<img width="1920" height="1248" alt="weather advisory" src="https://github.com/user-attachments/assets/2f5b4c8c-1d80-4c2f-bfe3-b014ef7a2ee6" />
+
+
+
+
+
